@@ -4,7 +4,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\bpatil\\Desktop\\react\\Gatsby\\tutorial\\.cache\\dev-404-page.js")),
   "component---src-pages-about-js": preferDefault(require("C:\\Users\\bpatil\\Desktop\\react\\Gatsby\\tutorial\\src\\pages\\about.js")),
   "component---src-pages-contact-js": preferDefault(require("C:\\Users\\bpatil\\Desktop\\react\\Gatsby\\tutorial\\src\\pages\\contact.js")),
   "component---src-pages-contentful-recipe-title-js": preferDefault(require("C:\\Users\\bpatil\\Desktop\\react\\Gatsby\\tutorial\\src\\pages\\{ContentfulRecipe.title}.js")),
